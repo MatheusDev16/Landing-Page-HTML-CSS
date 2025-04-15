@@ -1,6 +1,6 @@
 # LANDING PAGE CHOCOLATE DELICIA. #
-## Tecnologias usadas: HTML E CSS. ##
+## Tecnologias utilizadas: HTML E CSS. ##
 
-Landing Page para um comércio local de sobremesas.
+Landing Page para um comércio local de sobremesas com redirecionamento para redes sociais.
 
-![WhatsApp Image 2025-03-11 at 04 53 45](https://github.com/user-attachments/assets/3c1f85c8-3830-4cde-ae1e-62749d47dc56)
+![WhatsApp Image 2025-04-15 at 00 09 03](https://github.com/user-attachments/assets/a843180f-7dc4-4bf8-9777-70e97da20e17)
