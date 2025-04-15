@@ -1,4 +1,4 @@
-# LANDINGPAGE CHOCOLATE DELICIA. #
+# LANDING PAGE CHOCOLATE DELICIA. #
 ## Tecnologias usadas: HTML E CSS. ##
 
 Landing Page para um comércio local de sobremesas.
